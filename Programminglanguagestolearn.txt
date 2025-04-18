@@ -1,0 +1,7 @@
+Programming languages to learn:
+1. Python
+2. C++
+3. Dart
+4. SQL
+5. Bash/Powershell
+6. Rust
